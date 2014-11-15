@@ -4,6 +4,11 @@
     "author" : "Chris Köbke",
     "displayName" : "ChrisVolume2OST",
     "description" : "Official Terasology soundtrack by Chris Köbke, Volume II",
-    "dependencies" : [],
+    "dependencies" : [
+        {
+            "id" : "MusicDirector",
+            "minVersion" : "0.2.0"
+        }
+    ],
     "isServerSideOnly" : false
 }
