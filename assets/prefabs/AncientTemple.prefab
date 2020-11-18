@@ -1,0 +1,13 @@
+{
+  "AutoCreate": {
+    "createClientSide": true
+  },
+  "DisplayName": {
+    "name": "Ancient Temple"
+  },
+  "TimedMusicTrigger": {
+    "dailyStart": 0.20,
+    "dailyEnd": 0.40,
+    "assetUri": "AncientTemple"
+  }
+}

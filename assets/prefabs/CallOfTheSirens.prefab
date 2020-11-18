@@ -1,0 +1,13 @@
+{
+  "AutoCreate": {
+    "createClientSide": true
+  },
+  "DisplayName": {
+    "name": "Call of the Sirens"
+  },
+  "TimedMusicTrigger": {
+    "dailyStart": 0.65,
+    "dailyEnd": 0.85,
+    "assetUri": "CallOfTheSirens"
+  }
+}

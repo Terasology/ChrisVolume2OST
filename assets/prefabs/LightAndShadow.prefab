@@ -1,0 +1,13 @@
+{
+  "AutoCreate": {
+    "createClientSide": true
+  },
+  "DisplayName": {
+    "name": "Light and Shadow"
+  },
+  "TimedMusicTrigger": {
+    "dailyStart": 0.20,
+    "dailyEnd": 0.40,
+    "assetUri": "LightAndShadow"
+  }
+}
