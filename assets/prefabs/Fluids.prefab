@@ -1,0 +1,13 @@
+{
+  "AutoCreate": {
+    "createClientSide": true
+  },
+  "DisplayName": {
+    "name": "Fluids"
+  },
+  "TimedMusicTrigger": {
+    "dailyStart": 0.40,
+    "dailyEnd": 0.65,
+    "assetUri": "Fluids"
+  }
+}
