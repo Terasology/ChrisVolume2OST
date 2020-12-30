@@ -1,12 +1,15 @@
 {
-    "id": "ChrisVolume2OST",
-    "version": "1.0.0",
-    "author": "Chris Köbke",
-    "displayName": "Chris' Terasology OST - Volume 2",
-    "description": "Official Terasology soundtrack by Chris Köbke, Volume II",
-    "dependencies": [
-        { "id": "MusicDirector", "minVersion": "1.0.0" }
-    ],
-    "isServerSideOnly": false,
-    "isAsset": true
+  "id": "ChrisVolume2OST",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "Chris Köbke",
+  "displayName": "Chris' Terasology OST - Volume 2",
+  "description": "Official Terasology soundtrack by Chris Köbke, Volume II",
+  "dependencies": [
+    {
+      "id": "MusicDirector",
+      "minVersion": "1.0.0"
+    }
+  ],
+  "isServerSideOnly": false,
+  "isAsset": true
 }
